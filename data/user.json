@@ -1,0 +1,17 @@
+[
+    {
+        "id": "A0001",
+        "username": "user1",
+        "status": "active"
+    },
+    {
+        "id": "A0002",
+        "username": "user2",
+        "status": "active"
+    },
+    {
+        "id": "A0003",
+        "username": "user3",
+        "status": "disabled"
+    }
+]
