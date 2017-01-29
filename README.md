@@ -6,12 +6,12 @@ This is a small express server as an example of api testing.
 
 This will start it running on http://localhost:3000
 
-You can change the port by running PORT=4040 node index
+You can change the port by running PORT=4040 node server
 
 ```
 npm install
 
-node index
+node server
 ```
 
 ## End points
