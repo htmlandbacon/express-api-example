@@ -4,7 +4,7 @@
   "description": "a simple express api",
   "main": "index.js",
   "scripts": {
-    "test": "npm run tests"
+    "test": "mocha tests/**"
   },
   "repository": {
     "type": "git",
